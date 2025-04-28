@@ -1,0 +1,11 @@
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\bin\Debug\net8.0\Dtos.deps.json
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\bin\Debug\net8.0\Dtos.dll
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\bin\Debug\net8.0\Dtos.pdb
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\Dtos.dll
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\Dtos.pdb
+C:\Projects\DotNetInterview\DotNetInterview\Dtos\obj\Debug\net8.0\ref\Dtos.dll

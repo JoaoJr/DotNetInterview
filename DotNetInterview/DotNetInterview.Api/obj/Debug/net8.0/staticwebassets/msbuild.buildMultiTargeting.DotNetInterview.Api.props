@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotNetInterview.Api.props" />
+</Project>
